@@ -5,3 +5,5 @@ Sou estudante de tecnologia buscando compreender
 os segredos da linguagem de sistemas para no 
 futuro poder contribuir com um mundo melhor
 para todos.
+
+Todos os eventos do projeto serão open source.
